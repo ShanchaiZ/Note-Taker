@@ -19,6 +19,11 @@ An application to write and save note with Express.js back end and will save and
 - Express.js
 - Npm
 
+
+# Screenshots:
+![noteMain](./public/assets/image/noteMain.png)
+![noteExample](./public/assets/image/noteExample.png)
+
 # Deployed Link:
 
-
+https://whispering-shore-03195.herokuapp.com/
