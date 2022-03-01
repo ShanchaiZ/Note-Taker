@@ -12,12 +12,12 @@ An application to write and save note with Express.js back end and will save and
 
 # Technologies
 
-HTML
-CSS
-Javascript:
-Node.js
-Express.js
-Npm
+- HTML
+- CSS
+- Javascript:
+- Node.js
+- Express.js
+- Npm
 
 # Deployed Link:
 
